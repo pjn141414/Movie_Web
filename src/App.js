@@ -18,7 +18,9 @@ function Food({ name, picture, rating }) {
 }
 
 Food.propTypes = {
-
+  name: PropTypes.string.isRequired,
+  picture: PropTypes.string.isRequired,
+  rating: PropTypes.number.isRequired
 };
 
 function renderFood(dish) {
@@ -57,7 +59,7 @@ function App() {
   return (
     <div className="App">
       {foodILike.map(dish => (
-        <Food key={dish.idx} name={dish.name} picture={dish.image} />
+        <Food key={dish.idx} name={dish.name} picture={dish.image} rating={dish.rating} />
       ))}
     </div>
   );
