@@ -2,4 +2,7 @@
 
 💛　React.js 를 공부하기 위해 만든 레포지토리 입니다.  
 💛　React.js 를 이용해 <b>영화 웹 서비스</b> 를 클론코딩 합니다.  
-💛　참고한 영상은 👉🏻 [노마드 코더 리액트 바로가기](https://nomadcoders.co/react-fundamentals/lectures/1556)
+💛　참고한 영상은 👉🏻 [노마드 코더 리액트 바로가기](https://nomadcoders.co/react-fundamentals/lectures/1556) </br>
+
+🌈　2021.06.02 에 참고 영상을 보고 영화 웹 만들기가 마무리 되었습니다!  
+🌈　이후엔 헷갈리는 부분들을 다시 보고 정리한 후, 개인적으로 공부할 예정입니다.
